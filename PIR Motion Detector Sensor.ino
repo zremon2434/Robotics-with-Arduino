@@ -8,7 +8,7 @@ int state;
 void setup()
 {
    
- pinMode(pir,OUTPUT);
+ pinMode(pir,INPUT);
  pinMode(buzzer,OUTPUT);
   
     
