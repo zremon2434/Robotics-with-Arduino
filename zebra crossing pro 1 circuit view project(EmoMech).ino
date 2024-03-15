@@ -1,4 +1,4 @@
-/* Author: Emon */
+/* Author: ZR Emon */
 #include<Servo.h>
 
 int servopin1=9;
