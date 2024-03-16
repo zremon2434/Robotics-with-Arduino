@@ -1,3 +1,5 @@
+/* Author: ZR Emon */
+
 int pin1=7;
 int pin2=8;
 int pin3=12;
