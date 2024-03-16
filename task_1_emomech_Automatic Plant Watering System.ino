@@ -1,5 +1,5 @@
 // Author: ZR Emon
-//Project: Automatic Plant Watering System
+//Project: Automatic Plant Watering System.
 
 // Define analog pin for soil moisture sensor, pump control pin, and variables
 int soil = A1;
