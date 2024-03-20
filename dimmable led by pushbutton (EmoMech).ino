@@ -1,3 +1,5 @@
+/* Author: ZR Emon*/
+
 int buttonpin1=12;
 int buttonpin2=11;
 int buttonval1;
