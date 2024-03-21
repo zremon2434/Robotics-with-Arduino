@@ -1,3 +1,4 @@
+/* Author: ZR Emon */
 int potval=A1;
 int resiread=6;
 int readpot;
