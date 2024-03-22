@@ -1,3 +1,5 @@
+/* Author: ZR Emon */
+
 int pin1=6;
 int delayt=2000;
 int delaytt=1000;
