@@ -1,7 +1,5 @@
+/* Author: ZR Emon */
 int pin=4;
-
-
-
 void setup()
 {
  
