@@ -1,3 +1,5 @@
+/* Author: ZR Emon */
+
 int pir=7;
 int buzzer=8;
 int state;
