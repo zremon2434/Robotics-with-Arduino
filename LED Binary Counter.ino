@@ -1,6 +1,6 @@
 /* Author: ZR Emon */
 
-int one=13;
+int onee=13;
 int two=12;
 int three=8;
 int four=4;
@@ -9,7 +9,7 @@ int dah=2000;
 
 void setup()
 {
-pinMode(one,OUTPUT);
+pinMode(onee,OUTPUT);
 pinMode(two,OUTPUT);
 pinMode(three,OUTPUT);
 pinMode(four,OUTPUT);
@@ -22,7 +22,7 @@ pinMode(four,OUTPUT);
 void loop()
 {
 
-  digitalWrite(one,LOW);
+  digitalWrite(onee,LOW);
   
    digitalWrite(two,LOW);
   
@@ -35,7 +35,7 @@ void loop()
   
   
   
-  digitalWrite(one,LOW);
+  digitalWrite(onee,LOW);
 
    digitalWrite(two,LOW);
  
@@ -47,7 +47,7 @@ void loop()
   
   
   
-  digitalWrite(one,LOW);
+  digitalWrite(onee,LOW);
   
    digitalWrite(two,LOW);
   
@@ -61,7 +61,7 @@ void loop()
   
   
   
-  digitalWrite(one,LOW);
+  digitalWrite(onee,LOW);
  
    digitalWrite(two,LOW);
   
@@ -75,7 +75,7 @@ void loop()
   
   
   
-  digitalWrite(one,LOW);
+  digitalWrite(onee,LOW);
 
    digitalWrite(two,HIGH);
   
@@ -89,7 +89,7 @@ void loop()
   
   
   
-  digitalWrite(one,LOW);
+  digitalWrite(onee,LOW);
  
    digitalWrite(two,HIGH);
  
@@ -103,7 +103,7 @@ void loop()
   
   
   
-  digitalWrite(one,LOW);
+  digitalWrite(onee,LOW);
 
    digitalWrite(two,HIGH);
   
@@ -117,7 +117,7 @@ void loop()
   
   
   
-  digitalWrite(one,LOW);
+  digitalWrite(onee,LOW);
 
    digitalWrite(two,HIGH);
 
@@ -131,7 +131,7 @@ void loop()
   
   
   
-  digitalWrite(one,HIGH);
+  digitalWrite(onee,HIGH);
  
    digitalWrite(two,LOW);
 
@@ -145,7 +145,7 @@ void loop()
   
   
   
-  digitalWrite(one,HIGH);
+  digitalWrite(onee,HIGH);
 
    digitalWrite(two,LOW);
  
@@ -160,7 +160,7 @@ void loop()
   
   
   
-  digitalWrite(one,HIGH);
+  digitalWrite(onee,HIGH);
 
    digitalWrite(two,LOW);
 
@@ -175,7 +175,7 @@ void loop()
   
   
   
-  digitalWrite(one,HIGH);
+  digitalWrite(onee,HIGH);
  
    digitalWrite(two,LOW);
  
@@ -189,7 +189,7 @@ void loop()
   
   
   
-  digitalWrite(one,HIGH);
+  digitalWrite(onee,HIGH);
  
    digitalWrite(two,HIGH);
   
@@ -204,7 +204,7 @@ void loop()
   
   
   
-  digitalWrite(one,HIGH);
+  digitalWrite(onee,HIGH);
  
    digitalWrite(two,HIGH);
 
@@ -219,7 +219,7 @@ void loop()
   
   
   
-  digitalWrite(one,HIGH);
+  digitalWrite(onee,HIGH);
 
    digitalWrite(two,HIGH);
  
@@ -234,7 +234,7 @@ void loop()
   
   
   
-  digitalWrite(one,HIGH);
+  digitalWrite(onee,HIGH);
  
    digitalWrite(two,HIGH);
 
