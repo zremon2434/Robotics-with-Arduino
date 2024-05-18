@@ -1,4 +1,4 @@
-/* Author: ZR Emon */
+/* Author: ZR Emon. */
 
 int pinred=8;
 int pingreen=10;
